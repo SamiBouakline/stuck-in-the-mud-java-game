@@ -11,6 +11,13 @@ while other values contribute to the score. The game ends when all dice are stuc
 The goal of the project was to practice **Java Swing**, **event-driven design**, 
 and **managing game state** in a small interactive application.
 
+## Features
+- Roll five dice with a single button click
+- Dice showing 2 or 5 become “stuck” automatically
+- Tracks current score as dice are rolled
+- Detects end of game when all dice are stuck
+- Simple, intuitive GUI for continuous gameplay
+
 ## Technical Concepts
 - Java Swing for GUI components and layouts
 - Event-driven programming using ActionListeners
